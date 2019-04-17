@@ -1,0 +1,8 @@
+[package]
+name = "amethyst-anysource"
+version = "0.1.0"
+authors = ["Jef <jackefransham@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst = { path = "../amethyst/" }
